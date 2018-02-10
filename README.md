@@ -1,2 +1,2 @@
 # blog
-Silencesnow‘的博客
+Silencesnow的博客
